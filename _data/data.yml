@@ -5,131 +5,85 @@
 sidebar:
     position: right # position of the sidebar : left or right
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
+    name: Noé DELAFLOR
     tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
+    email: delaflor.noe11@gmail.com
+    phone: 06 52 42 90 29
+    adress: 9 rue Paul Pousset, Angers, 49100
     website: blog.webjeda.com #do not add http://
     linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    github: neo-dl11
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: French
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
+        - idiom: English
           level: Professional
 
     interests:
       title: Interests
       info:
-        - item: Climbing
-          link:
+        - item: Street art dans sa globalité , photographie, vidéo 
 
-        - item: Snowboarding
-          link:
+        - item: Nouvelles technologies & informatique
 
-        - item: Cooking
-          link:
+        - item: Sport de combat - NoGi, Boxe thaïlandaise
 
 career-profile:
     title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+    summary: Apres avoir obtenu une licence en psychologie et acquis une certaine experience dans le domaine du handicap, j'ai choisi de me réorienter vers ma premiere passion, l'informatique. Au cours de l'année écoulée, j'ai developpé un interet majeur pour cybersecurité en me formant de maniere autodidacte a la programmation. Je recherche  une alternance dans ce domaine afin de valider mon année de Bachelor Développement d'Applications. 
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+      - degree: Baccalauréat STI2D - Systeme d’information et numérique
+        university: Lycée Chevrollier, Angers
+        time: 2017 - 2018
+
+      - degree: Licence de Psychologie
+        university: Université d’Angers
+        time: 2018 - 2020
+
+      - degree: M1 - Master Intervention et Développement Social 
+        university: Université d’Angers
+        time: 2022 - 2023
 
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+      - role: Technicien helpdesk
+        time: Avril 2023 - Janvier 2024
+        company: HELPLINE, Angers
+        details: Technicien Helpdesk a distance. Emission et réception d’appels vers des professionnels GROUPAMA. Diagnostique de défauts logiciel, web, matériel, Rédaction de tickets, Dépannage via prise en main a distance
 
+      - role: Conseiller téléphonique
+        time: Juin 2022 - Aout 2022
+        company: KINOUGARDE, Angers
+        details: Conseiller téléphonique au centre d'appel Kinougarde à Angers. Émission et réception d'appel passation de pré-entretien téléphoniques de recrutement, saisie informatique sur plusieurs logiciels
+
+      - role: Volontaire en service civique
+        time: Octobre 2021 - Juin 2022
+        company: UNIS-CITÉ
+        details: Accompagnement et soutien au domicile pour des personnes en situation de handicap suivis à l'année, ainsi que leurs aidants familiaux. Apporter des moments de répit aux aidants, lutter contre l’isolement à travers des temps d’échanges. 
+
+      - role:  Directeur de sejour en sejour adapté 
+        time: Aout 2021 (3 semaines)
+        company: Nouvel Horizon
+        details: direction de 5 animateurs/accompagnateurs lors d'un séjour adapté pour un groupe de 30 personnes en situation de handicap psychique ou de polyhandicap à Mandres les roses (94)
+
+      - role: Stagiaire psychologue 
+        time: Juin 2020
+        company: ESAT BDL
+        details: Stage de 140h sous la tutelle d'une psychologue clinicienne à l'ESAT Bord de Loire (49). Observations, comptes rendus, réunion pluridisciplinaires, passation de tests, entretiens accompagné et seuls.
 certifications:
       title: Certifications
       list:
@@ -178,25 +132,17 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
+      - title: DOSO
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "This tool quickly retrieves and presents essential domain name information, such as availability and expiration dates, in an easy-to-read format."
 
-      - title: DevStudio
+      - title: Everyday Cybersecurity Training
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "A website offering quizzes to practice and learn cybersecurity topics."
 
-      - title: Tempo
+      - title: WeatherApp
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Desktop application in JAVA that displays temperature and other weather parameters for a selected city."
 
 oss:
     title: OSS Contributions
@@ -217,49 +163,18 @@ oss:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
 skills:
-    title: Skills &amp; Proficiency
-
+    title: Languages and technologies used
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Python / Flask
+      - name: Javascript / VueJS
+      - name: PHP / Laravel, Symfony
+      - name: HTML5 & CSS / Bootstrap, Tailwind
+      - name: JAVA / Gradle, Maven 
+      - name: C#
+      - name: CLI Linux, Bash
+      - name: NeoVIM / LunarVIM
+      - name: Docker
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
