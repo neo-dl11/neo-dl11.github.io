@@ -10,7 +10,7 @@ sidebar:
     # Profile information
     name: Noé DELAFLOR
     tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    # avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: delaflor.noe11@gmail.com
@@ -147,5 +147,3 @@ skills:
       - name: Docker
         level: 10%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
