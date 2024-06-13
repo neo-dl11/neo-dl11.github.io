@@ -84,30 +84,6 @@ experiences:
         company: ESAT BDL
         details: Stage de 140h sous la tutelle d'une psychologue clinicienne à l'ESAT Bord de Loire (49). Observations, comptes rendus, réunion pluridisciplinaires, passation de tests, entretiens accompagné et seuls.
 
-certifications:
-      title: Certifications
-      list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-
 projects:
     title: Projets
     intro: Liste des projets que j'ai pu realiser dans le cadre de cette année d'auto formation, retrouvables sur mon Github
