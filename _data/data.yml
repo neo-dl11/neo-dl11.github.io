@@ -102,7 +102,7 @@ projects:
 
 skills:
     title: Langages et technologies deja utilisées
-    intro: Barre de progression associée a chaque point en fonction du temps passé sur le sujet en question, donc pas forcement representatif de mon niveau reel dans ces domaines 
+    intro: Les barres de progression associées à chaque compétence sont basées sur le temps consacré à chaque domaine
     toolset:
       - name: Python / Flask
         level: 80%
