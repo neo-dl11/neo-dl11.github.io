@@ -100,9 +100,13 @@ projects:
         link: "https://github.com/neo-dl11/JavaWeatherApp"
         tagline: "Desktop application in JAVA that displays temperature and other weather parameters for a selected city."
 
+
+      - title: Lookatthis
+        link: "https://github.com/neo-dl11/Lookatthis-nodejs-vue"
+        tagline: "portfolio application to present the different projects. Static application generated from a nodejs application using Vue.js."
 skills:
     title: Langages et technologies deja utilisées
-    intro: Les barres de progression associées à chaque compétence sont basées sur le temps consacré à chaque domaine
+    intro: Les barres de progression associées à chaque compétence sont basées sur le temps consacré à chaque domaine, et non au niveau reel acquis
     toolset:
       - name: Python / Flask
         level: 80%
