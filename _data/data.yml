@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: Noé DELAFLOR
-    tagline: Full Stack Developer
+    tagline: Alternance - Concepteur Développeur d'Applications
     # avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -109,13 +109,13 @@ skills:
     intro: Les barres de progression associées à chaque compétence sont basées sur le temps consacré à chaque domaine, et non au niveau reel acquis
     toolset:
       - name: Python / Flask
-        level: 80%
+        level: 100%
       - name: Javascript / VueJS
         level: 30%
       - name: PHP / Laravel, Symfony
         level: 50%
       - name: HTML5 & CSS / Bootstrap, Tailwind
-        level: 80%
+        level: 90%
       - name: JAVA / Gradle, Maven 
         level: 30%
       - name: C#
